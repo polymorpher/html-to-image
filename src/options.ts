@@ -1,4 +1,5 @@
 export interface Options {
+  delay?: number
   /**
    * Width in pixels to be applied to node before rendering.
    */
